@@ -4,6 +4,6 @@ public class GitAttempt {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("This works");
+		System.out.println("This works as far as I know");
 	}
 }
