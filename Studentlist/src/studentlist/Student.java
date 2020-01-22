@@ -8,11 +8,13 @@ package studentlist;
 /**
  *
  * @author srinivsi
+ * @date
  */
 public class Student
 {
     private String name;
     private int age;
+    private int partid;
 
     /**
      * @return the name
