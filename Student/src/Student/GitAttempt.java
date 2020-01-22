@@ -5,6 +5,6 @@ public class GitAttempt {
 		// TODO Auto-generated method stub
 		System.out.println("Yes");
 		System.out.println("Changed");
-		System.out.println("Second line");
+		System.out.println("OK line");
 	}
 }
