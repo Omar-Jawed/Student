@@ -16,6 +16,7 @@ public class Arithmetic
 
     /**
      * @param args the command line arguments
+     * OMAR EDIT START
      */
     public static void main(String[] args) 
     {
@@ -31,6 +32,6 @@ public class Arithmetic
     	   System.out.println(values[z].val);
        }
     
-    }
+    } //OMAR EDIT END
 }
 
